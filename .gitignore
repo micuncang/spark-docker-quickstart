@@ -1,0 +1,3 @@
+hadoop-conf/conf/
+spark-conf/conf/
+*.rpm
